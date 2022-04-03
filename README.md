@@ -10,7 +10,7 @@ A generator that takes in information about employees on a software engineering 
 * Took user input and used template literals to dynamically generate an entire HTML page directly from the command line. 
 
 ### Link 
-[Link to video]()
+[Link to video](https://github.com/Rodrigo-Valencia/Team-Profile-Generator/blob/main/assests/Team-Profile-Generator.webm)
 
 ### Reference 
 ![Screenshot of project](/assests/team-profile-generator.gif)
