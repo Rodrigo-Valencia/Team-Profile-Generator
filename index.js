@@ -8,33 +8,6 @@ const Manager = require('./lib/Manager');
 
 const teamArray = [];
 
-// function createTeam() {
-//     inquire.prompt([
-//         {
-//             type: 'list',
-//             name: 'addEmployee',
-//             message: 'What type of employee would you like to add to your team?',
-//             choices: ['Manager', 'Engineer', 'Intern', 'No more team members are needed.'],
-//         }
-//     ]).then(function(userInput) {
-//         switch(userInput.addEmployee) {
-//             case 'Manager':
-//                 addManager();
-//                 break;
-//             case 'Engineer':
-//                 addEngineer();
-//                 break;
-//             case 'Intern':
-//                 addIntern();
-//                 break;
-//             case 'No more team members are needed.':
-//                 break;
-            
-//             default: generateHTML();
-//         }
-//     })
-// }
-
 const addManager = () => {
     return inquire.prompt ([
         {
